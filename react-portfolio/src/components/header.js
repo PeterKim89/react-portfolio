@@ -4,7 +4,7 @@ import NavBar from "../NavBar";
 
 function Header() {
 	return (
-		<header className="flex-row px-1">
+		<header className="flex-row">
 			<h1>
 				<Link to="/">Peter Kim</Link>
 			</h1>
