@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import NavBar from "../NavBar";
+import Navbar from "./Navbar";
 
 function Header() {
 	return (
@@ -8,7 +8,7 @@ function Header() {
 			<h1>
 				<Link to="/">Peter Kim</Link>
 			</h1>
-			<NavBar></NavBar>
+			<Navbar></Navbar>
 		</header>
 	);
 }

@@ -6,13 +6,13 @@ function NavBar() {
 		<nav className="navbar">
 			<ul className="flex-row">
 				<li>
-					<Link to="/about">About Me</Link>
+					<Link to="./About">About Me</Link>
 				</li>
 				<li>
-					<Link to="/portfolio">Portfolio</Link>
+					<Link to="./Portfolio">Portfolio</Link>
 				</li>
 				<li>
-					<Link to="/footer">Contact Me</Link>
+					<Link to="./Contact">Contact Me</Link>
 				</li>
 			</ul>
 		</nav>
