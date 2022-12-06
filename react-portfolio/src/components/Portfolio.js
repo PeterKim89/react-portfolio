@@ -3,6 +3,7 @@ import React from "react";
 import BookRecos from "../../assets/images/BookRecos.png";
 import CollegeTracker from "../../assets/images/collegeTracker.png";
 import Glassify from "../../assets/images/glassify.jpg";
+import Placeholder from "../../assets/images/placeholder.jpg";
 
 function Portfolio() {
 	return (
@@ -47,6 +48,21 @@ function Portfolio() {
 							</a>
 							<h2>Deployment coming soon</h2>
 						</div>
+					</div>
+				</div>
+				<div class="col">
+					<div class="card">
+						<img src={Placeholder} alt="placeholder" class="card-img-top" />
+					</div>
+				</div>
+				<div class="col">
+					<div class="card">
+						<img src={Placeholder} alt="placeholder" class="card-img-top" />
+					</div>
+				</div>
+				<div class="col">
+					<div class="card">
+						<img src={Placeholder} alt="placeholder" class="card-img-top" />
 					</div>
 				</div>
 			</div>
