@@ -1,9 +1,9 @@
 import React from "react";
 
-import BookRecos from "../../assets/images/BookRecos.png";
-import CollegeTracker from "../../assets/images/collegeTracker.png";
-import Glassify from "../../assets/images/glassify.jpg";
-import Placeholder from "../../assets/images/placeholder.jpg";
+import BookRecos from "../assets/images/BookRecos.png";
+import CollegeTracker from "../assets/images/collegeTracker.png";
+import Glassify from "../assets/images/glassify.jpg";
+import Placeholder from "../assets/images/placeholder.jpg";
 
 function Portfolio() {
 	return (
