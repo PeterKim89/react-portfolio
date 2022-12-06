@@ -21,6 +21,34 @@ function Portfolio() {
 						</div>
 					</div>
 				</div>
+				<div class="col">
+					<div class="card">
+						<img
+							src={CollegeTracker}
+							alt="collegeTracker"
+							class="card-img-top"
+						/>
+						<div class="card-body">
+							<a href="https://github.com/mkelly3/College-Tracker">
+								<button>GitHub Repo</button>
+							</a>
+							<a href="https://college-tracker123.herokuapp.com/">
+								<button>Website Deployment</button>
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="col">
+					<div class="card">
+						<img src={Glassify} alt="glassify" class="card-img-top" />
+						<div class="card-body">
+							<a href="https://github.com/teedaa/glassify">
+								<button>GitHub Repo</button>
+							</a>
+							<h2>Deployment coming soon</h2>
+						</div>
+					</div>
+				</div>
 			</div>
 		</section>
 	);
