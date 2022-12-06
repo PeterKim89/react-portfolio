@@ -12,6 +12,9 @@ function Footer() {
 						<a href="https://www.linkedin.com/in/peter-kim89"></a>
 					</li>
 					<li>
+						<a href="https://stackoverflow.com/users/20698796/peterkim89"></a>
+					</li>
+					<li>
 						<h2>Peter.Kim@uconn.edu</h2>
 					</li>
 				</ul>
