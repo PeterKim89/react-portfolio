@@ -1,7 +1,7 @@
 import React from "react";
 
 import BookRecos from "../assets/images/BookRecos.png";
-import CollegeTracker from "../assets/images/collegeTracker.jpg";
+import CollegeTracker from "../assets/images/collegetracker.jpg";
 import Glassify from "../assets/images/glassify.png";
 import Placeholder from "../assets/images/placeholder.png";
 
