@@ -12,7 +12,7 @@ function NavBar() {
 					<Link to="/portfolio">Portfolio</Link>
 				</li>
 				<li>
-					<Link to="/contact">Contact Me</Link>
+					<Link to="/footer">Contact Me</Link>
 				</li>
 			</ul>
 		</nav>
