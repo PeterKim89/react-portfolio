@@ -1,18 +1,17 @@
 import React from "react";
-import { Link } from "react-router-dom";
 
 function NavBar() {
 	return (
 		<nav className="navbar">
 			<ul className="flex-row">
 				<li>
-					<Link to="./About">About Me</Link>
+					<a href="#about">About Me</a>
 				</li>
 				<li>
-					<Link to="./Portfolio">Portfolio</Link>
+					<a href="#portfolio">Portfolio</a>
 				</li>
 				<li>
-					<Link to="./Contact">Contact Me</Link>
+					<a href="#contact">Contact Me</a>
 				</li>
 			</ul>
 		</nav>
